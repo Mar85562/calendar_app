@@ -1,6 +1,6 @@
 # calendar_app
 
-Calendar App with reminder and to-do functionalities
+Calendar App with reminder and to-do functionalities. Development still in progress. Other functionalities to be added include: adding new events, reminders, deployment etc...
 
 ## Getting Started
 
