@@ -1,16 +1,42 @@
-# calendar_app
+# 📆 Flutter Calendar Module
 
-Calendar App with reminder and to-do functionalities. Development still in progress. Other functionalities to be added include: adding new events, reminders, deployment etc...
+A custom-built calendar module developed from scratch using Flutter and Dart, featuring scrollable monthly views, day-based reminders, and swipe navigation. Built as part of an internship project.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Monthly calendar UI with swipe navigation
+- Highlighting of current day
+- Custom reminder modal on date click
+- Responsive layout using `GridView` and `PageView`
+- Built-in support for reminders with placeholder text
+- Light and dark themed color schemes
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Tech Stack
+- **Language**: Dart
+- **Framework**: Flutter
+- **Packages**: 
+  - `hexcolor`
+  - `scaffold_gradient_background`
+  - `flutter_gradient_colors`
+  - `date_time_format`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧪 Screenshots
+
+| Calendar View | Reminder Modal |
+|:-------------:|:--------------:|
+| ![Calendar UI](Assets/calendar_view.png) | ![Reminder Popup](Assets/reminder_modal.png) |
+
+> 💡 *Add your screenshots to an `Assets/` folder in the root of your repo and name them clearly (like above).*
+
+---
+
+## 🚀 Getting Started
+
+```bash
+flutter pub get
+flutter run
