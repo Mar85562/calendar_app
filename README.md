@@ -25,16 +25,6 @@ A custom-built calendar module developed from scratch using Flutter and Dart, fe
 
 ---
 
-## 🧪 Screenshots
-
-| Calendar View | Reminder Modal |
-|:-------------:|:--------------:|
-| ![Calendar UI](Assets/calendar_view.png) | ![Reminder Popup](Assets/reminder_modal.png) |
-
-> 💡 *Add your screenshots to an `Assets/` folder in the root of your repo and name them clearly (like above).*
-
----
-
 ## 🚀 Getting Started
 
 ```bash
