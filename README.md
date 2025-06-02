@@ -40,3 +40,10 @@ A custom-built calendar module developed from scratch using Flutter and Dart, fe
 ```bash
 flutter pub get
 flutter run
+```
+📌 Notes
+This module was developed during my internship at Hassan Allam Technologies.
+
+It is not a full-featured calendar app, but a reusable component for task/reminder scheduling.
+
+Some features like backend integration and notification alerts are not implemented yet.
